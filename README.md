@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Beginner57
-- 👀 I’m interested in finance and programing.
-- 🌱 I’m currently learning python basic and web flask.
-- 💞️ I’m looking to collaborate on projects which automate process.
+- 👀 I’m interested in finance and programming.
+- 🌱 I’m currently learning python for web with flask.
+- 💞️ I’m looking to collaborate on projects which automate processes.
 - 📫 How to reach me http://www.my7tory.com/.
 
 <!---
