@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Beginner57
+- 👋 Hi, I’m Dejan Atelj.
 - 👀 I’m interested in finance and programming.
 - 🌱 I’m currently learning python for web with flask.
 - 💞️ I’m looking to collaborate on projects which automate processes.
